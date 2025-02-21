@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- I'm currently learning Python
-- I'm a PhD student in Chemistry
+- I'm a PhD student at KAUST, Inorganic Membrane Research Lab
 - I work on membranes and crystalline structures
+- I'm currently learning Python
 - Reach me using Telegram: @fallenkarfagen or Discord @wht_s_lv
 
 <!--
