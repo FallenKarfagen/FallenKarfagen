@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- I'm currently learning Python
+- I'm a PhD student in Chemistry
+- I work on membranes and crystalline structures
+- Reach me using Telegram: @fallenkarfagen or Discord @wht_s_lv
+
 <!--
 **FallenKarfagen/FallenKarfagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
